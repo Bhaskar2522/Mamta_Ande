@@ -1,0 +1,18 @@
+certificates:
+1. Google Data Analytics
+ 2.Power BI & Visualization - WsCube Tech
+ 3.Excel & Analytics - Coursera
+
+Skills & Expertise
+1.Excel :
+    Power Query, Pivot Tables, Formulas, Dashboards
+2.Power BI:
+    Interactive Dashboards, Data Modeling
+3.SQL:
+    Data Querying, Joins, Aliases
+4.Data Visualization
+     Charts, Visual Design, Dashboard Design, Information Architecture, Interactive Reporting, User Experience (UX) for Data, Executive Summaries 
+5.Data Analysis:
+    Trends, Patterns, Insights
+6.Reporting:
+     Business Reports,KPI Tracking,Automated Reporting ,Presentations
