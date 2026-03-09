@@ -62,7 +62,7 @@ const Hero = () => {
                   className="w-full border-primary text-primary hover:bg-primary/10 group"
                   asChild
                 >
-                  <a href="/Mamta-Ande-FlowCV-Resume-20260111 (2).pdf" download="Mamta_Ande_Resume.pdf">
+                  <a href="mamta-ande-resume.pdf" target="_blank" rel="noopener noreferrer">
                     Download CV
                     <Download className="ml-2 h-4 w-4 group-hover:translate-y-1 transition-transform" />
                   </a>

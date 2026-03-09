@@ -34,7 +34,7 @@ const Portfolio = () => {
               {/* Project Image */}
               <div className="relative h-[250px] sm:h-[300px] md:h-[400px] overflow-hidden bg-muted">
                 <img
-                  src="/Bike Ridership Analysis.png"
+                  src="bike-ridership-analysis.png"
                   alt="Bike Ridership Analysis"
                   className="w-full h-full object-cover group-hover:scale-110 group-hover:rotate-1 transition-all duration-700 ease-out"
                 />
@@ -82,7 +82,7 @@ const Portfolio = () => {
                   className="bg-primary hover:bg-primary/90 text-primary-foreground group w-full md:w-auto"
                   asChild
                 >
-                  <a href="/Google Data Analytics Capstone Complete a Case Study.pdf" target="_blank" rel="noopener noreferrer">
+                  <a href="google-data-analytics-capstone.pdf" target="_blank" rel="noopener noreferrer">
                     View Project Details
                     <ExternalLink className="ml-2 h-4 w-4 group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" />
                   </a>
@@ -106,7 +106,7 @@ const Portfolio = () => {
               {/* Project Image */}
               <div className="relative h-[250px] sm:h-[300px] md:h-[400px] overflow-hidden bg-muted">
                 <img
-                  src="/retention-dashboard.jpeg"
+                  src="retention-dashboard.jpeg"
                   alt="Customer Retention BI Dashboard"
                   className="w-full h-full object-cover group-hover:scale-110 group-hover:rotate-1 transition-all duration-700 ease-out"
                 />
@@ -177,7 +177,7 @@ const Portfolio = () => {
               {/* Project Image */}
               <div className="relative h-[250px] sm:h-[300px] md:h-[400px] overflow-hidden bg-muted">
                 <img
-                  src="/Multi-Region Sales Dashboard.jpeg"
+                  src="multi-region-sales-dashboard.jpeg"
                   alt="Multi-Region Sales Dashboard"
                   className="w-full h-full object-cover group-hover:scale-110 group-hover:rotate-1 transition-all duration-700 ease-out"
                 />
@@ -224,7 +224,7 @@ const Portfolio = () => {
                   className="bg-primary hover:bg-primary/90 text-primary-foreground group w-full md:w-auto"
                   asChild
                 >
-                  <a href="/Multi-Region Sales Dashboard.jpeg" target="_blank" rel="noopener noreferrer">
+                  <a href="multi-region-sales-dashboard.jpeg" target="_blank" rel="noopener noreferrer">
                     View Dashboard
                     <ExternalLink className="ml-2 h-4 w-4 group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" />
                   </a>
@@ -248,7 +248,7 @@ const Portfolio = () => {
               {/* Project Image */}
               <div className="relative h-[250px] sm:h-[300px] md:h-[400px] overflow-hidden bg-muted">
                 <img
-                  src="/Diversity & Inclusion Dashboard1.jpeg"
+                  src="diversity-inclusion-dashboard-1.jpeg"
                   alt="Diversity & Inclusion Dashboard"
                   className="w-full h-full object-cover group-hover:scale-110 group-hover:rotate-1 transition-all duration-700 ease-out"
                 />
@@ -294,7 +294,7 @@ const Portfolio = () => {
                   className="bg-primary hover:bg-primary/90 text-primary-foreground group w-full md:w-auto"
                   asChild
                 >
-                  <a href="/Diversity & Inclusion Dashboard1.jpeg" target="_blank" rel="noopener noreferrer">
+                  <a href="diversity-inclusion-dashboard-1.jpeg" target="_blank" rel="noopener noreferrer">
                     View Features
                     <ExternalLink className="ml-2 h-4 w-4 group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" />
                   </a>

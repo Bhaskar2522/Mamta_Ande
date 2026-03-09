@@ -40,7 +40,7 @@ const Navigation = () => {
             onClick={() => scrollToSection("#home")}
             className="flex items-center gap-2 hover:opacity-80 transition-opacity"
           >
-            <img src="/Website_logo.png" alt="Mamta Ande Logo" className="h-10 w-auto object-contain" />
+            <img src="Website_logo.png" alt="Mamta Ande Logo" className="h-10 w-auto object-contain" />
           </button>
 
           {/* Desktop Navigation */}

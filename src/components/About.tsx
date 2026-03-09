@@ -81,15 +81,21 @@ const About = () => {
                   <h3 className="text-2xl font-bold">Virtual Experience</h3>
                   <ul className="space-y-4 mt-4">
                     <li className="space-y-1">
-                      <p className="text-foreground font-semibold">PwC Switzerland</p>
+                      <a href="pwc-cert.pdf" target="_blank" rel="noopener noreferrer" className="text-foreground font-semibold hover:text-primary transition-colors underline underline-offset-4">
+                        PwC Switzerland
+                      </a>
                       <p className="text-sm text-muted-foreground">Developed Power BI dashboards for HR KPIs and executive gender balance.</p>
                     </li>
                     <li className="space-y-1">
-                      <p className="text-foreground font-semibold">Deloitte Australia</p>
+                      <a href="deloitte-cert.pdf" target="_blank" rel="noopener noreferrer" className="text-foreground font-semibold hover:text-primary transition-colors underline underline-offset-4">
+                        Deloitte Australia
+                      </a>
                       <p className="text-sm text-muted-foreground">Executed data cleaning and anomaly detection for forensic technology.</p>
                     </li>
                     <li className="space-y-1">
-                      <p className="text-foreground font-semibold">Tata Group</p>
+                      <a href="tata-cert.pdf" target="_blank" rel="noopener noreferrer" className="text-foreground font-semibold hover:text-primary transition-colors underline underline-offset-4">
+                        Tata Group
+                      </a>
                       <p className="text-sm text-muted-foreground">Designed strategic dashboards to communicate business-driven data storytelling.</p>
                     </li>
                   </ul>
@@ -116,7 +122,7 @@ const About = () => {
                   <li className="flex items-center gap-3">
                     <div className="w-2 h-2 bg-primary rounded-full shadow-sm" />
                     <a
-                      href="/Google Data Analytics.pdf"
+                      href="google-data-analytics-cert.pdf"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-foreground font-semibold leading-relaxed hover:text-primary transition-colors underline underline-offset-4"
